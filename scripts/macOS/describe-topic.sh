@@ -1,0 +1,1 @@
+sudo /Users/yannap./Documents/confluent-7.5.1/bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic hello-producer-topic --from-beginning
